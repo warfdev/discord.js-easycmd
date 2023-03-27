@@ -3,7 +3,7 @@ const { Client, Message } = require("discord.js")
 
 
 /**
- * EVENTZ:
+ * EVENTS:
  * welcomeByw
  * autoRole
  * autoTag
