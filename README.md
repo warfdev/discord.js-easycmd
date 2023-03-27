@@ -11,6 +11,9 @@
 - index.js
 ```js
 const { Client } = require("discord.js");
+const client = new Client({
+  intents: ["GUILDS", "GUILD_MESSAGES", "GUILD_MEMBERS"]
+});
 const { $registeredEvent } = require("discord.js-registeredEvents")
 
 // Welcome Bye
