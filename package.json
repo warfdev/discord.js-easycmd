@@ -1,7 +1,7 @@
 {
   "name": "discord.js-registeredEvents",
   "version": "1.0.0",
-  "description": "discord.js projeniz için kolay bir şekilde kullanacabileceğiniz event modülü.",
+  "description": "discord.js projeniz için kolay bir şekilde kullanabileceğiniz event modülü.",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
