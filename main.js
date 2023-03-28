@@ -56,6 +56,18 @@ $registeredEvent = (client, { event, channel, role, text }) => {
     })
   }
   
+
+
+
+
+    // event error message
+  if(
+    (event !== "welcomeBye") ||
+    (event !== "autoTag") ||
+    (event !== "autoRole")
+  ){
+    throw new TypeError(`hatalı event girişi tespit edildi.`)
+  }
 }
 //END
 
