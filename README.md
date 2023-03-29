@@ -1,5 +1,5 @@
-# discord.js-registeredEvents
-- bu modül botlarınıza daha kolay/hazır event kurmanıza yarar.
+# discord.js-easycmd
+- bu modül botlarınıza daha kolay/hazır komut kurmanıza yarar.
 
 ## Kayıtlı Eventler;
 - welcomeBye
