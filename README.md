@@ -14,7 +14,7 @@ const { Client } = require("discord.js");
 const client = new Client({
   intents: ["GUILDS", "GUILD_MESSAGES", "GUILD_MEMBERS"]
 });
-const { $registeredEvent } = require("discord.js-registeredEvents")
+const { $registeredEvent } = require("discord.js-easycmd")
 
 // Welcome Bye
 $registeredEvent(client, {
