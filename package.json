@@ -1,5 +1,5 @@
 {
-  "name": "discord.js-registeredEvents",
+  "name": "discord.js-easycmd",
   "version": "1.0.0",
   "description": "discord.js projeniz için kolay bir şekilde kullanabileceğiniz event modülü.",
   "main": "main.js",
