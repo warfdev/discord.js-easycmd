@@ -39,3 +39,7 @@ $registeredEvent(client, {
 
 ## NOT
 - Discord.js V13 destekli.
+
+<div align="center">
+  <b>[GitHub](https://github.com/warfdev)</b> | <b>[Discord Support](https://discord.com/invite/RVN8dGhNEY)</b>
+</div>
